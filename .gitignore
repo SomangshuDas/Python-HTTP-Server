@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# PyInstaller
+build_tools/build/
+build_tools/*.spec
+*.spec
+
+# Compiled binaries and installers (distributed via GitHub Releases instead)
+dist/*.exe
+dist/*.msi
+
+# Virtual environments
+venv/
+.venv/
+
+# OS / editor cruft
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
